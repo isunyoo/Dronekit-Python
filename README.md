@@ -19,7 +19,9 @@ $ mavproxy.py --master tcp:127.0.0.1:5760 --out udp:127.0.0.1:14551 --out udp:17
 
 
 $ sudo apt-get install mono-complete
+
 $ wget http://firmware.ardupilot.org/Tools/MissionPlanner/MissionPlanner-latest.zip
+
 $ mono /home/syoo/Documents/Python/dronekit-python/MissionPlanner/MissionPlanner.exe
 
 
